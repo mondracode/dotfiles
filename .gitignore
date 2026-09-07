@@ -1,0 +1,4 @@
+# Local and machine-specific files
+.DS_Store
+*.local
+*.secret
